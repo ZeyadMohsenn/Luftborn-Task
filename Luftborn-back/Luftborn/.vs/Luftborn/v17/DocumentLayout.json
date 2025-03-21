@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Luftborn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDC3912-A03B-4577-BA69-02B284CA2321}|Luftborn.Infrastructure\\Luftborn.Infrastructure.csproj|e:\\luftborn\\luftborn.infrastructure\\migrations\\20250320192522_suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDC3912-A03B-4577-BA69-02B284CA2321}|Luftborn.Infrastructure\\Luftborn.Infrastructure.csproj|solutionrelative:luftborn.infrastructure\\migrations\\20250320192522_suppliers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3836AF41-D0A3-4ABB-A623-765A1666E46E}|Luftborn.Application\\Luftborn.Application.csproj|e:\\luftborn\\luftborn.application\\luftborn.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3836AF41-D0A3-4ABB-A623-765A1666E46E}|Luftborn.Application\\Luftborn.Application.csproj|solutionrelative:luftborn.application\\luftborn.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2CD0F8-ADB4-410B-8A5E-B6975284FB49}|Luftborn.Domain\\Luftborn.Domain.csproj|e:\\luftborn\\luftborn.domain\\luftborn.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A2CD0F8-ADB4-410B-8A5E-B6975284FB49}|Luftborn.Domain\\Luftborn.Domain.csproj|solutionrelative:luftborn.domain\\luftborn.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250320192522_suppliers.cs",
+              "DocumentMoniker": "E:\\Luftborn\\Luftborn.Infrastructure\\Migrations\\20250320192522_suppliers.cs",
+              "RelativeDocumentMoniker": "Luftborn.Infrastructure\\Migrations\\20250320192522_suppliers.cs",
+              "ToolTip": "E:\\Luftborn\\Luftborn.Infrastructure\\Migrations\\20250320192522_suppliers.cs",
+              "RelativeToolTip": "Luftborn.Infrastructure\\Migrations\\20250320192522_suppliers.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:25:26.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Luftborn.Application.csproj",
+              "DocumentMoniker": "E:\\Luftborn\\Luftborn.Application\\Luftborn.Application.csproj",
+              "RelativeDocumentMoniker": "Luftborn.Application\\Luftborn.Application.csproj",
+              "ToolTip": "E:\\Luftborn\\Luftborn.Application\\Luftborn.Application.csproj",
+              "RelativeToolTip": "Luftborn.Application\\Luftborn.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T14:43:11.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Luftborn.Domain.csproj",
+              "DocumentMoniker": "E:\\Luftborn\\Luftborn.Domain\\Luftborn.Domain.csproj",
+              "RelativeDocumentMoniker": "Luftborn.Domain\\Luftborn.Domain.csproj",
+              "ToolTip": "E:\\Luftborn\\Luftborn.Domain\\Luftborn.Domain.csproj",
+              "RelativeToolTip": "Luftborn.Domain\\Luftborn.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T14:37:17.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

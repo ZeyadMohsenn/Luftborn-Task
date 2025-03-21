@@ -1,0 +1,115 @@
+<!-- <div class="login-wrapper">
+  <div class="surface-card p-4 m-4 shadow-2 w-full lg:w-4">
+    <div class="text-center mb-5">
+      <img src="assets/layout/images/log.jfif" alt="Image" height="80" class="mb-3" />
+    </div>
+    <form [formGroup]="loginForm" autocomplete="off">
+      <div class="w">
+        <label for="email" class="block text-900 font-medium mb-2"> Email </label>
+        <app-input
+          [control]="loginForm.controls.userNameOrEmail"
+          id="email"
+          type="text"
+          placeholder="Email Or Name"
+          classes="w-full mb-3" />
+      </div>
+
+      <div class="relative w">
+        <label for="password" class="block text-900 font-medium mb-2"> Password </label>
+        <div class="password-wrapper">
+          <app-input
+            [style.width]="'100%'"
+            [control]="loginForm.controls.password"
+            id="password"
+            type="password"
+            placeholder="Password"
+            classes="w-full mb-3">
+            <i
+              class="pi"
+              [ngClass]="showPassword() ? 'pi pi-eye' : 'pi pi-eye-slash'"
+              (click)="togglePassword()"
+              class="eye-icon"></i>
+          </app-input>
+        </div>
+      </div>
+
+      <div class="w">
+        <div class="flex align-items-center">
+          <input id="rememberMe" type="checkbox" formControlName="rememberMe" class="mr-2" />
+          <label for="rememberMe" class="block text-500 font-light mb-1"><span>Remember Me</span></label>
+        </div>
+      </div>
+      <div class="button-wrapper">
+        <app-button  [form]="loginForm" (onClick)="login()"> Sign In </app-button>
+      </div>
+    </form>
+  </div>
+</div> -->
+
+
+<div class="login-wrapper">
+  <div class="card-wrapper w-full lg:w-4">
+    <p-toast></p-toast>
+    <div class="surface-card p-4 shadow-2">
+        <div class="text-center mb-6">
+          <h1>
+            المسوق الذكي
+          </h1>
+        </div>
+        <form [formGroup]="loginForm">
+          <div>
+            <!-- <label for="email1" class="block text-900 font-medium mb-2"
+              >Email <span class="cl-danger">*</span></label
+            >
+            <app-input
+              [control]="loginForm.controls.userNameOrEmail"
+              id="email"
+              type="text"
+              placeholder="Email Or Name"
+              classes="w-full mb-3" 
+            /> -->
+            
+            <div class="w">
+              <label for="email" class="block text-900 font-medium mb-2"> Email <span class="cl-danger">*</span> </label>
+              <app-input
+                [control]="loginForm.controls.userNameOrEmail"
+                id="email"
+                type="text"
+                placeholder="Email Or Name"
+                classes="w-full mb-1 form-control" />
+            </div>
+      
+            <div class="w">
+              <label for="password1" class="block text-900 font-medium mb-2"
+                >Password <span class="cl-danger">*</span></label
+              >
+              <app-input
+                [style.width]="'100%'"
+                [control]="loginForm.controls.password"
+                id="password"
+                type="password"
+                placeholder="Password"
+                classes="w-full mb-1 form-control">
+              </app-input>
+            </div>
+            <div class="remember">
+              <input id="remmber" type="checkbox" formControlName="rememberMe" />
+              <label for="remmber"><span>Remember Me</span></label>
+            </div>
+            <app-button label="Sign In" icon="pi pi-user" classes="w-full button" [form]="loginForm" (onClick)="login()"></app-button>
+            <!-- <button
+              pButton
+              label="Sign In"
+              type="submit"
+              icon="pi pi-user"
+              class="w-full"
+              [formAction]="loginForm"
+              (click)="login()"
+            ></button> -->
+          </div>
+          </form>
+      </div>
+  </div>
+</div>
+
+<!-- <app-loader></app-loader> -->

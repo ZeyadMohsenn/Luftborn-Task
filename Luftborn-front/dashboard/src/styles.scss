@@ -1,0 +1,447 @@
+// /* Importing Bootstrap SCSS file. */
+/* You can add global styles to this file, and also import other style files */
+@import 'primeng/resources/themes/lara-light-blue/theme.css';
+@import 'primeng/resources/primeng.css';
+@import 'primeicons/primeicons.css';
+@import '../node_modules/primeng/resources/primeng.min.css';
+@import '../node_modules/primeflex/primeflex.scss';
+@import '../node_modules/primeicons/primeicons.css';
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+@import 'assets/layout/styles/layout/layout.scss';
+@import 'assets/style/index.scss';
+@import '@ng-select/ng-select/themes/default.theme.css';
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+
+
+#crumbs ul li:first-child a {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  padding-left: 20px !important;
+}
+
+#crumbs ul li:first-child a:before {
+  display: none;
+}
+
+#crumbs ul li:last-child a {
+  padding-right: 20px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin-right: 0px !important;
+}
+#crumbs ul{
+  border-radius: 5px;
+  box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.02), 0px 0px 2px rgba(0, 0, 0, 0.05), 0px 1px 4px rgba(0, 0, 0, 0.08);
+  border: 3px solid var(--surface-border);
+}
+
+#crumbs ul li:last-child a:after {
+  display: none;
+}
+
+
+
+// @import "../../colors/color.scss";
+.custom-input {
+  // border: 1px solid #124570 !important; 
+  border-radius: 0.375rem !important; 
+}
+
+.myColor{
+  color: #124570 !important;
+}
+
+.action-container {
+  position: relative; 
+  display: inline-block;
+  text-align: center; 
+}
+
+.msg-container {
+  display: none; 
+  color:black;
+  font-size: 12px; 
+  position: absolute; 
+  top: 100%; 
+  left: 100%; 
+  transform: translateX(-50%); 
+}
+
+.action-container:hover .msg-container {
+  display: block; 
+}
+
+html {
+  font-size: 12px !important;
+}
+.image-holder img {
+  object-fit: cover;
+}
+app-action-button button,
+app-action-button button span {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+// From my point of view
+#item ul li a,
+#item ul li {
+  margin-bottom: 0.5rem;
+  outline: none;
+  // i think this is better to use
+  box-shadow: none;
+}
+.layout-menu ul a.active-route {
+  background-color: transparent;
+  border: 1px solid #3da5f0;
+  color: #3da5f0;
+}
+// .margin-0 {
+//   margin-left: 0rem !important;
+// }
+.col-4 {
+  padding: 0.5rem 0rem !important;
+}
+.image-holder {
+  width: 45px;
+  height: 45px;
+}
+.col-12 {
+  padding-top: 0rem !important;
+}
+img {
+  // to prevent draggable images
+  -webkit-user-drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+input {
+  font-size: 1.2rem;
+}
+tr td .p-badge {
+  padding: 0rem !important;
+  width: 70px;
+  text-align: center;
+  height: 28px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.p-datatable .p-datatable-tbody > tr > td {
+  padding: 0.8rem 1rem !important;
+}
+.layout-sidebar {
+  width: 15% !important;
+  min-width: 250px;
+}
+
+.layout-sidebar::-webkit-scrollbar {
+  display: none;
+}
+.xng-breadcrumb-separator {
+  padding: 0 4px;
+}
+.ng-select.ng-select-single .ng-select-container {
+  height: 100%;
+}
+.xng-breadcrumb-root {
+  padding: 8px 16px;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #3da5f0;
+}
+
+.files {
+  display: flex;
+  justify-content: space-between;
+  // padding: 10px;
+}
+#userRole {
+  height: 100%;
+}
+#userName {
+  width: 100%;
+}
+
+.text-primary {
+  color: #3da5f0 !important;
+}
+
+.p-button {
+  padding: 10px !important;
+  font-size: 1rem !important;
+}
+.noPadding {
+  padding: 0 !important;
+}
+.col-12 {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+@media (min-width: 992px) {
+  .layout-wrapper.layout-static .layout-main-container {
+    margin-left: 240px;
+  }
+}
+@media (min-width: 1650px) and (max-width: 1770px) {
+  .layout-wrapper.layout-static .layout-main-container {
+    margin-left: 250px;
+  }
+}
+@media (min-width: 1770px) and (max-width: 1960px) {
+  .layout-wrapper.layout-static .layout-main-container {
+    margin-left: 285px;
+  }
+}
+// important
+body[dir='ltr'] {
+
+
+  .margin-0 {
+    margin-left: 0rem !important;
+  }
+  @media (max-width: 991px) {
+    .layout-wrapper .layout-main-container {
+      margin-left: 0px !important;
+      padding-left: 2rem;
+    }
+  }
+}
+$crump-back: #eaf1ff;
+$crump-color: #0ea5e9;
+body[dir='rtl'] {
+  
+    #crumbs{
+    a{
+      float: right;
+      padding: 0px 40px 0 15px !important; 
+      margin: 0 0 0 5px !important;
+      &:after{
+        border-left: unset;
+        border-right: 20px solid $crump-back;
+        left: -20px;
+        right: unset;
+      }
+      &:before{
+        border-left: unset;
+        border-right: 20px solid #fff;
+        right: 0px;
+        left: unset;
+      }
+    }
+    ul li:first-child a {
+      border-top-right-radius: 5px;
+      border-top-left-radius: unset;
+      border-bottom-right-radius: 5px;
+      border-bottom-left-radius: unset;
+    }
+    ul li:first-child a:before{
+      display: none;
+    }
+    ul li:last-child a {
+      margin-left: 0px !important;
+      margin-left: unset;
+      padding-left: 20px;
+      padding-right: unset;
+    }
+    ul li:last-child a:after {
+      display: none;
+    }
+    ul li a:hover:after , .active-link::after{
+      border-right-color: $crump-color;
+      border-left-color: unset;
+    }
+  }
+  #crumbs ul li:first-child a {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    // border-top-left-radius: unset;
+    padding-right: 20px !important;
+    // border-bottom-left-radius: unset;
+  }
+  #crumbs ul li:last-child a {
+    padding-left: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    // border-top-right-radius: unset;
+    // border-bottom-right-radius: unset;
+  }
+
+
+  // @media (min-width: 992px) {
+  //   .layout-wrapper.layout-static .layout-main-container {
+  //     margin-left: 300px !important;
+  //   }
+  // }
+  .layout-menu ul ul li a {
+    margin-right: 1rem;
+  }
+  .p-paginator .p-dropdown .p-dropdown-label {
+    padding: 0.75rem;
+    padding-left: 0rem !important;
+  }
+  .layout-menu ul a .layout-menuitem-icon {
+    margin-left: 0.5rem;
+  }
+  *:not(.pi) {
+    font-family: 'Almarai', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  xng-breadcrumb * {
+    font-family: 'Inter var', sans-serif !important;
+  }
+  .p-button .p-button-icon-left {
+    margin-right: 0rem;
+    margin-left: 0.5rem;
+  }
+  @media (max-width: 991px) {
+    .layout-sidebar {
+      transform: translateY(60px) !important;
+    }
+  }
+  @media (min-width: 992px) {
+    .layout-sidebar {
+      left: auto;
+      right: 1rem;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .layout-wrapper.layout-static .layout-main-container {
+      margin-right: 250px !important;
+    }
+    .layout-main-container {
+      padding: 7rem 4rem 2rem 2rem;
+      transition: margin-right 0.2s ease;
+    }
+  }
+
+  .layout-topbar .layout-topbar-menu {
+    margin: 0 auto 0 0;
+  }
+
+  @media (min-width: 992px) {
+    .layout-wrapper.layout-static.layout-static-inactive .layout-sidebar {
+      transform: translateX(100%);
+      right: 0;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .layout-wrapper.layout-static.layout-static-inactive .layout-main-container {
+      margin-right: 0 !important;
+      padding-right: 2rem;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .layout-wrapper.layout-static .layout-main-container {
+      margin-right: 250px !important;
+      margin-left: 0px;
+    }
+  }
+  .p-datatable .p-datatable-thead > tr > th {
+    text-align: right;
+  }
+  .p-datatable .p-datatable-tbody > tr > td {
+    text-align: right;
+  }
+  .layout-menu ul a .layout-submenu-toggler {
+    margin-right: auto;
+    margin-left: 0;
+  }
+}
+
+.p-button.p-button-icon-only.p-button-rounded {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+
+span.abbreviation {
+  background-color: #3da5f0;
+  color: #ffffff;
+  width: 45px;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  height: 45px;
+  border-radius: 50%;
+  align-items: center;
+}
+.p-badge-info {
+  font-size: 0.8rem;
+}
+
+// colors not working
+// .ng-valid.ng-dirty:not([formGroupName]):not([formArrayName]):not([ngModelGroup]):not(form):not(paper-textarea) {
+//   border: 2px solid var(--color-success);
+// }
+// .ng-invalid.ng-dirty:not([ngModelGroup='address']):not([formGroupName='address']):not([formArrayName]):not(form) {
+//   border: 2px solid var(--color-error);
+// }
+
+button[disabled] {
+  pointer-events: none;
+  opacity: 1;
+}
+
+@keyframes input-message-animation {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
+
+@mixin input-message() {
+  font-size: 12px;
+  box-sizing: border-box;
+  padding: 2px 13px;
+  animation-name: input-message-animation;
+  animation-duration: 300ms;
+}
+
+.input-error {
+  @include input-message();
+  color: var(--color-error);
+}
+.input-info {
+  @include input-message();
+  color: var(--color-info);
+}
+
+.addButton {
+  background-color: transparent;
+  border: 1px solid #3da5f0;
+  color: #3da5f0;
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+}
+
+.addButton:hover {
+  background-color: #3da5f0;
+  color: white;
+}
+
+.transparentButton {
+  background-color: transparent;
+  border: 1px solid var(--btn-color, #3da5f0);
+  color: var(--btn-color, #3da5f0);
+  transition:
+    background-color 0.3s ease,
+    color 0.3s ease;
+}
+
+.transparentButton:hover,
+.transparentButton:active {
+  background-color: var(--btn-color, #3da5f0);
+  color: white;
+}
+

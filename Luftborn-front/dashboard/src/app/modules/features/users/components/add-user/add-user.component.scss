@@ -1,0 +1,80 @@
+.invalid-feedback {
+  color: red;
+  font-size: 0.875em;
+}
+
+.form-control.ng-touched.ng-invalid {
+  border-color: red;
+}
+
+
+::ng-deep .p-treeselect {
+  width: 100% !important;
+}
+
+::ng-deep .p-treeselect-panel {
+  max-width: 100% !important;
+  box-sizing: border-box;
+}
+
+:host ::ng-deep .p-splitbutton {
+  background-color: #124570 !important; 
+  width: 200px !important;
+}
+
+:host ::ng-deep .p-splitbutton .p-button {
+  background-color: #124570 !important; 
+  border-color: #124570 !important;
+  color: white !important; 
+}
+
+:host ::ng-deep .p-splitbutton .p-button:focus {
+  box-shadow: none !important;
+}
+
+:host ::ng-deep .p-splitbutton .p-splitbutton-defaultbutton {
+  flex: 1; 
+}
+.w3{
+  width: 300px !important;
+}
+
+.mx-12 {
+  margin-left: 60px !important; 
+  margin-right: 60px !important; 
+}
+.w{
+  width: 70%;
+  margin-left: 100px;
+}
+
+.custom-add-btn {
+  color: #444; 
+  font-size: 14px;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.custom-add-btn:hover {
+  background-color: #ddd; 
+}
+
+.custom-remove-btn {
+  color: #d9534f; 
+  font-size: 14px;
+  border-radius: 50%;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.custom-remove-btn:hover {
+  background-color: #f8d7da; 
+}

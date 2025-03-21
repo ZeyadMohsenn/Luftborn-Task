@@ -1,0 +1,41 @@
+@import '../../colors/color.scss';
+
+$border-radius: 7px;
+.page-link {
+  border-radius: $border-radius;
+  // background-color: rgba(168, 170, 174, 0.2);
+  background-color: rgba(177, 172, 172, 0.2);
+  color: $cl-secondary;
+  border: none;
+  &:hover {
+    // background-color: rgba(168, 170, 174, 0.3);
+    background-color: rgba(174, 168, 168, 0.3);
+    color: $cl-secondary;
+  }
+  &:focus {
+    box-shadow: none;
+  }
+}
+.page-item {
+  margin: 0 0.2rem;
+}
+.page-link.disabled,
+.disabled > .page-link {
+  // background-color: $bg-disabled;
+  border: none;
+  border-radius: $border-radius;
+}
+.page-link.active,
+.active > .page-link {
+  // background-color: rgba(33, 103, 255, 0.4);
+  background-color: $primary;
+  border: none;
+  // color: $font-color-secondary;
+}
+.ng-select.ng-select-focused:not(.ng-select-opened) > .ng-select-container {
+  border-color: rgba(255, 33, 33, 0.4);
+  box-shadow:
+    inset 0 1px 1px rgb(0 0 0 / 8%),
+    0 0 0 3px rgba(255, 0, 0, 0.1);
+  height: 100%;
+}

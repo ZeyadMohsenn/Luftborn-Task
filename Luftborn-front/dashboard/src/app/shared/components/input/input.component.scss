@@ -1,0 +1,20 @@
+// @import "../../colors/color.scss";
+
+.form-control:focus {
+  border: 1px solid blue !important;
+  box-shadow: 0 3px 10px 0 rgb(34 41 47 / 10%);
+}
+.is-invalid:focus{
+  border: 1px solid red !important;
+}
+small {
+  color: red;
+}
+.is-invalid {
+  border: 1px solid red !important;
+}
+:host(.input-group) {
+  small {
+    width: 100%;
+  }
+}

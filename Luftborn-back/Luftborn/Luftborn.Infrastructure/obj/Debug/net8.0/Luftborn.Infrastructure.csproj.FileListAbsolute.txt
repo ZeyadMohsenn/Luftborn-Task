@@ -1,0 +1,39 @@
+e:\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Infrastructure.deps.json
+e:\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Infrastructure.runtimeconfig.json
+e:\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Infrastructure.dll
+e:\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Infrastructure.pdb
+e:\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Application.dll
+e:\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Domain.dll
+e:\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Application.pdb
+e:\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Domain.pdb
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.csproj.AssemblyReference.cache
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.AssemblyInfoInputs.cache
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.AssemblyInfo.cs
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.csproj.CoreCompileInputs.cache
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.C09CE7DB.Up2Date
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.dll
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\refint\Luftborn.Infrastructure.dll
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.pdb
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.genruntimeconfig.cache
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\ref\Luftborn.Infrastructure.dll
+e:\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.sourcelink.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Infrastructure.deps.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Infrastructure.runtimeconfig.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Infrastructure.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Infrastructure.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Application.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Domain.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Application.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\bin\Debug\net8.0\Luftborn.Domain.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.csproj.AssemblyReference.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.AssemblyInfoInputs.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.AssemblyInfo.cs
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.csproj.CoreCompileInputs.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.C09CE7DB.Up2Date
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\refint\Luftborn.Infrastructure.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\Luftborn.Infrastructure.genruntimeconfig.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Infrastructure\obj\Debug\net8.0\ref\Luftborn.Infrastructure.dll

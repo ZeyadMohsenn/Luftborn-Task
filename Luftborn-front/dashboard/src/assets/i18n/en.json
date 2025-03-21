@@ -1,0 +1,82 @@
+{
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "email": "Email",
+    "password": "Password",
+    "username": "Username",
+    "welcome": "Welcome",
+    "resetPassword": "Reset Password",
+    "forgetPassword": "Forget Password ?",
+    "confirmPassword": "Confirm Password"
+  },
+  "pages": {
+    "dashboard": "Dashboard",
+    "packages": "packages"
+  },
+
+  "buttons": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "remove": "Remove",
+    "save": "Save",
+    "cancel": "Cancel",
+    "update": "Update",
+    "submit": "Submit",
+    "reset": "Reset",
+    "search": "Search",
+    "clear": "Clear",
+    "import": "Import",
+    "export": "Export"
+  },
+
+  "shared": {
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "actions": "Actions",
+    "icon": "Icon",
+    "cancel": "Cancel",
+    "back": "Back",
+    "add": "Add",
+    "edit": "Edit",
+    "SAVE": "Save",
+    "UploadImage": "Upload Image",
+    "UploadVideo": "Upload video",
+    "ChangeImage": "Change Image",
+    "ChangeVideo": "Change video",
+    "requiredField": "This field is required",
+    "invalidEmail": "Invalid email",
+    "invalidPhoneNumber": "Invalid phone number",
+    "EndAfterStart": "End date must be after the start date.",
+    "StartMustToday": " Start date must be today or later."
+  },
+  "users": {
+    "users": "Users",
+    "viewUsers": "View Users",
+    "addUsers": "Add Users",
+    "editUsers": "Edit Users",
+    "edit": "Edit",
+    "delete": "Delete",
+    "Inactive": "Inactive",
+    "Active": "Active",
+    "name": "Name",
+    "nameOrPhone": "Name Or Phone",
+    "email": "Email",
+    "role": "Role",
+    "active": "Active",
+    "inactive": "Inactive",
+    "password": "Password",
+    "phone": "Phone",
+    "addUser": "Add User",
+    "editUser": "Edit User",
+    "selectARole": "Select a Role",
+    "falLicense": "Fal License",
+    "idCard": "User ID ",
+    "RegistrationNumber": " Commercial Registration Number",
+    "AreaOfInterest": "Area of Interest",
+    "FalLicenseNumber": "Fal License Number"
+  }
+
+}

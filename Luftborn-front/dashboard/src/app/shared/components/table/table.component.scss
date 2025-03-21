@@ -1,0 +1,31 @@
+::ng-deep .p-confirm-dialog .p-dialog-content {
+  color: rgb(247, 12, 12) !important;
+}
+
+::ng-deep .p-confirm-dialog .p-dialog-header {
+  background-color: rgb(255, 255, 255) !important;
+  color: black !important;
+}
+
+::ng-deep .p-confirm-dialog .p-button.p-confirm-dialog-accept {
+  
+  background-color: white !important;
+  border-color: green !important;
+  color: rgb(14, 4, 4) !important;
+}
+
+::ng-deep .p-confirm-dialog .p-button.p-confirm-dialog-reject {
+  background-color: white !important;
+  border-color: red !important;
+  color: rgb(3, 1, 1) !important;
+}
+
+::ng-deep .p-confirm-dialog .p-button.p-confirm-dialog-accept:hover {
+  background-color: green !important;
+  color: rgb(248, 243, 243) !important;
+}
+
+::ng-deep .p-confirm-dialog .p-button.p-confirm-dialog-reject:hover {
+  background-color: #b61a1a !important;
+  color: rgb(248, 243, 243) !important;
+}

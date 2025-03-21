@@ -1,0 +1,110 @@
+@import '../../colors/color.scss';
+
+.custom-btn-primary {
+  background-color: $primary !important;
+  border-color: $primary !important;
+  color: white !important;
+  &:hover {
+    box-shadow: 0 8px 25px -8px $primary !important;
+    background-color: $primary !important;
+  }
+  &:focus,
+  &:active {
+    background-color: $primary !important;
+  }
+}
+
+.customB {
+  background-color: #2baed8 !important;
+  color: white;
+  border: none !important;
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: #2baed8 !important;
+    box-shadow: 0 8px 25px -8px #2baed8 !important;
+  }
+}
+.custom-btn-secondary {
+  background-color: $cl-secondary !important;
+  border-color: $cl-secondary !important;
+  color: white !important;
+  &:hover {
+    box-shadow: 0 8px 25px -8px $cl-secondary !important;
+    background-color: $cl-secondary !important;
+  }
+  &:focus,
+  &:active {
+    background-color: $cl-secondary !important;
+  }
+}
+
+.custom-btn-success {
+  background-color: $cl-success !important;
+  border-color: $cl-success !important;
+  color: white !important;
+  &:hover {
+    box-shadow: 0 8px 25px -8px $cl-success !important;
+    background-color: $cl-success !important;
+  }
+  &:focus,
+  &:active {
+    background-color: $cl-success !important;
+  }
+}
+
+.custom-btn-info {
+  background-color: $cl-info !important;
+  border-color: $cl-info !important;
+  color: white !important;
+  &:hover {
+    box-shadow: 0 8px 25px -8px $cl-info !important;
+    background-color: $cl-info !important;
+  }
+  &:focus,
+  &:active {
+    background-color: $cl-info !important;
+  }
+}
+
+.custom-btn-warning {
+  background-color: $cl-warning;
+  border-color: $cl-warning !important;
+  color: white !important;
+  &:hover {
+    box-shadow: 0 8px 25px -8px $cl-warning !important;
+    background-color: $cl-warning !important;
+  }
+  &:focus,
+  &:active {
+    background-color: $cl-warning !important;
+  }
+}
+
+.custom-btn-danger {
+  background-color: $cl-danger;
+  border-color: $cl-danger !important;
+  color: white !important;
+  &:hover {
+    box-shadow: 0 8px 25px -8px $cl-danger !important;
+    background-color: $cl-danger !important;
+  }
+  &:focus,
+  &:active {
+    background-color: $cl-danger !important;
+  }
+}
+
+// .custom-btn-disabled {
+//   background-color: $bg-disabled;
+//   border-color: $bg-disabled !important;
+//   color: $font-color-label !important;
+//   &:hover {
+//     box-shadow: 0 8px 25px -8px $bg-disabled !important;
+//     background-color: $bg-disabled !important;
+//   }
+//   &:focus,
+//   &:active {
+//     background-color: $bg-disabled !important;
+//   }
+// }

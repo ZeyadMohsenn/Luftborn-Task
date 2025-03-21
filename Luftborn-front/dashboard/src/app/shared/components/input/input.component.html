@@ -1,0 +1,49 @@
+<input
+  #autoFocus
+  pInputText
+  autocomplete="off"
+  [type]="type"
+  [id]="id"
+  [ngClass]="{ 'is-invalid': control.dirty ? errors : '' }"
+  [formControl]="$any(control)"
+  [class]="classes"
+  [placeholder]="placeholder ?? ''"
+  (input)="onInput($event)" />
+
+<ng-content></ng-content>
+
+<ng-container *ngIf="control.dirty && control.touched && control.errors">
+  <small *ngIf="control.errors?.['required']"> Required </small>
+  <small *ngIf="control.errors?.['email']"> The Email field must be a valid email<br /> </small>
+  <small *ngIf="control.errors?.['minlength']">
+    Value you entered is {{ control.errors['minlength'].actualLength }}
+    character, but should at least
+    {{ control.errors['minlength'].requiredLength }}<br />
+  </small>
+  <small *ngIf="control.errors?.['maxlength']">
+    Value you entered is {{ control.errors['maxlength'].actualLength }}
+    character, but shouldn't be more than
+    {{ control.errors['maxlength'].requiredLength }}<br />
+  </small>
+  <small *ngIf="control.errors?.['min']">
+    should at least
+    {{ control.errors['min'].min }}<br />
+  </small>
+  <small *ngIf="control.errors?.['max']"> shouldn't be more than {{ control.errors['max'].max }}<br /> </small>
+  <small *ngIf="control.errors?.['mustMatch']"> Password and confirm-password must be the same<br /> </small>
+  <small *ngIf="control.hasError('capitalLetter')">
+    Should Have Capital Letter: {{ control.errors['capitalLetter'] }}<br />
+  </small>
+  <small *ngIf="control.hasError('lowercase')">
+    Should Have Small Letter: {{ control.errors['lowercase'] }}<br />
+  </small>
+  <small *ngIf="control.hasError('number')"> Should Have Number: {{ control.errors['number'] }}<br /> </small>
+  <small *ngIf="control.hasError('specialCharacter')">
+    Should Have Special Character: {{ control.errors['specialCharacter'] }}
+  </small>
+  <small *ngIf="control.hasError('notValid')">
+    {{ control.errors['notValid'] }}
+  </small>
+  <small *ngIf="control.hasError('toShouldMoreThanFrom')"> To Date Should be More than From Date </small>
+  <small *ngIf="control.hasError('invalidDateOfBirth')"> Should be more than 18 </small>
+</ng-container>

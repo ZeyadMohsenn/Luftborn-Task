@@ -1,0 +1,76 @@
+<app-card>
+  <ng-container cardHeader>
+    <h2 class="text-primary font-bold">
+     suppliers
+    </h2>
+    <div class="actions-files">
+      <button
+        pButton
+        pRipple
+        label="{{ 'Add Supplier' | translate }}"
+        icon="pi pi-plus"
+        class=" rounded addButton  "
+        [routerLink]="['/users/add']"></button>
+    </div>
+
+
+  </ng-container>
+  <ng-container cardTable>
+  <hr>
+    <app-table
+
+      [values]="suppliers() ?? []"
+      [totalRecords]="totalRecords"
+      [rows]="this.filterForm.controls.pageSize.value"
+      (pageChanged)="onPageChange($event)">
+      <ng-template #header>
+        <tr>
+          <th>Name</th>
+          <th>Supplier Type</th>
+          <th>Description</th>
+          <th>Notes</th>
+          <!-- <th>{{ 'users.role' | translate }}</th>
+          <th>{{ 'shared.status' | translate }}</th> -->
+          <th class="x">{{ 'shared.actions' | translate }}</th>
+        </tr>
+      </ng-template>
+
+      <ng-template #body let-supplier>
+        <tr>
+          <td>{{ supplier.name }}</td>
+          <td>{{ supplier.supplierType }}</td>
+          <td>{{ supplier.description }}</td>
+          <td>{{ supplier.notes }}</td>
+          <!-- <td>
+            <p-badge
+              [severity]="supplier.isActive ? 'info' : 'warning'"
+              [value]="'suppliers.' + (supplier.isActive ? 'Active' : 'Inactive') | translate">
+            </p-badge>
+          </td> -->
+          <td>
+
+ <span  class="action-container">
+            <app-action-button
+              icon="pi pi-pencil"
+              class="p-button-rounded p-button-secondary m-1 "
+              [color]="'#6c757d'"
+              [routerLink]="['/users/edit', supplier.id]"></app-action-button>
+              <span class="msg-container text-gray-500">{{ 'users.edit' | translate }}</span>
+            </span>
+           <span  class="action-container">
+
+
+            <app-action-button
+              icon="pi pi-trash"
+              class="p-button-rounded p-button-danger m-1"
+              [color]="'red'"
+              (clickEvent)="confirmDelete(supplier.id)"></app-action-button>
+              <span class="msg-container text-red-500">{{ 'users.delete' | translate }}</span>
+            </span>
+
+          </td>
+        </tr>
+      </ng-template>
+    </app-table>
+  </ng-container>
+</app-card>

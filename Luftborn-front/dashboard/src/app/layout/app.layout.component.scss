@@ -1,0 +1,63 @@
+$crumbs-back: #eaf1ff;
+$crump-color: #0ea5e9;
+$crump-size: 20px;
+
+a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  float: left;
+  height: calc($crump-size * 2);
+  background: $crumbs-back;
+  transition: all 0.3s ease;
+  text-align: center;
+  padding: 0px 0px 0 calc($crump-size * 2);
+  position: relative;
+  margin: 0 5px 0 0;
+  font-size: $crump-size;
+  text-decoration: none;
+
+  &:after {
+    content: "";
+    border-top: ($crump-size) solid transparent;
+    border-bottom: ($crump-size) solid transparent; 
+    border-left: calc(($crump-size) + 5px) solid $crumbs-back;
+    position: absolute;
+    right: calc(-1 * (($crump-size) + 5px));
+    top: 0;
+    transition: all 0.3s ease;
+    z-index: 1;
+    
+}
+
+  &:before {
+    content: "";
+    border-top: ($crump-size) solid transparent; 
+    border-bottom: ($crump-size) solid transparent; 
+    border-left: calc(($crump-size) + 5px) solid #ffffff;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+} 
+  a:hover , .active-link{
+    background: $crump-color;
+    color: #fff !important;
+  }
+  
+  a:hover:after , .active-link::after{
+    border-left-color: $crump-color;
+    color: #fff;
+  }
+
+  .breadCrump{
+    opacity: 0;
+    height: 0px;
+    transition: .5s;
+    transform: translateX(-10px);
+  }
+  .appear{
+    height: unset !important;
+    opacity: 1;
+    transform: translateX(0px);
+  }

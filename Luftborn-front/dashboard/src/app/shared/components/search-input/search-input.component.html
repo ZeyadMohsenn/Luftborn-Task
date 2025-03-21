@@ -1,0 +1,11 @@
+<div class="flex  flex-wrap  ">
+  <div class="my-1 ">
+    <input
+      pInputText
+      type="text"
+      class="form-control width-100 "
+      [ngClass]="{ 'custom-input': borderStyle }"
+      placeholder="{{ placeholder | translate }}"
+      [formControl]="control()" />
+  </div>
+</div>

@@ -1,0 +1,24 @@
+@import '../../colors/color.scss';
+
+.custom-bg-primary {
+  background-color: $primary;
+}
+
+.custom-bg-secondary {
+  background-color: $cl-secondary;
+}
+
+.custom-bg-info {
+  background-color: $cl-info;
+}
+
+.custom-bg-success {
+  background-color: $cl-success;
+}
+
+.custom-bg-warning {
+  background-color: $cl-warning;
+}
+.custom-bg-danger {
+  background-color: $cl-danger;
+}

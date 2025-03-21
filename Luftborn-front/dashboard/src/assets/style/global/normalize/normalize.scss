@@ -1,0 +1,43 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+li,
+ul,
+ol,
+button,
+input,
+textarea,
+select {
+  font-weight: 400;
+  font-style: normal;
+  color: #000000;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  outline: none;
+  border: none;
+  background: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.mat-mdc-checkbox label {
+  color: black;
+}
+// hr {
+//   margin: 1rem -1.2rem
+// }
+html,
+body {
+  font-size: 20px;
+}
+
+label {
+  margin-bottom: 16px;
+}

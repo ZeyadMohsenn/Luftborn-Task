@@ -1,0 +1,21 @@
+// @import "./directions/rtl/login";
+// @import "./directions/ltr/body";
+// @import "./directions/rtl/body";
+@import './global/pagination/pagination';
+// @import "./global/normalize/normalize";
+@import './global/classes/text';
+@import './global/classes/button';
+@import './global/classes/background';
+@import './global/classes/global-classes';
+@import './global/classes/switch';
+@import './global/classes/select';
+@import './global/classes/modal';
+@import './directions/direction.index';
+
+.customB {
+  background-color: #2baed8 !important;
+  color: white;
+  &:hover {
+    background-color: #2baed8;
+  }
+}

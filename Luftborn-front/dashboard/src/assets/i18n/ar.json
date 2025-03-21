@@ -1,0 +1,82 @@
+{
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "username": "اسم المستخدم",
+    "welcome": "مرحبًا",
+    "resetPassword": "إعادة تعيين كلمة المرور",
+    "forgetPassword": "هل نسيت كلمة المرور؟",
+    "confirmPassword": "تأكيد كلمة المرور"
+  },
+  "pages": {
+    "dashboard": "لوحة التحكم",
+    "packages": "الباقات"
+  },
+  "users": {
+    "users": "المستخدمين",
+    "nameOrPhone": "الاسم أو الهاتف",
+    "viewUsers": "عرض المستخدمين",
+    "addUsers": "إضافة مستخدمين",
+    "editUsers": "تحرير المستخدمين",
+    "edit": "تعديل",
+    "FalLicenseNumber": "رقم ترخيص فال",
+    "delete": "حذف",
+    "Inactive": "غير نشط",
+    "Active": "نشط",
+    "name": "الاسم",
+    "email": "البريد الإلكتروني",
+    "role": "الدور",
+    "active": "نشط",
+    "inactive": "غير نشط",
+    "password": "كلمة المرور",
+    "phone": "الهاتف",
+    "addUser": "إضافة مستخدم",
+    "editUser": "تحرير المستخدم",
+    "selectARole": "اختر دور",
+    "RegistrationNumber": "رقم السجل التجاري",
+    "AreaOfInterest": "مناطق الاهتمام",
+    "falLicense": "رخصة فال",
+    "idCard": "بطاقة المستخدم"
+  },
+
+  "buttons": {
+    "add": "إضافة",
+    "remove": "مسح",
+    "edit": "تحرير",
+    "delete": "حذف",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "update": "تحديث",
+    "submit": "إرسال",
+    "reset": "إعادة تعيين",
+    "search": "بحث",
+    "clear": "مسح",
+    "import": "استيراد",
+    "export": "تصدير"
+  },
+
+  "shared": {
+    "status": "الحالة",
+    "active": "نشط",
+    "inactive": "غير نشط",
+    "back": "رجوع",
+    "SAVE": "حفظ",
+    "actions": "الإجراءات",
+    "icon": "الصورة",
+    "cancel": "إلغاء",
+    "add": "اضافه",
+    "edit": "تعديل",
+    "UploadImage": "تحميل صورة",
+    "requiredField": "هذا الحقل مطلوب",
+    "invalidEmail": "بريد إلكتروني غير صالح",
+    "invalidPhoneNumber": "رقم الهاتف غير صالح",
+
+    "EndAfterStart": "يجب أن يكون تاريخ الانتهاء بعد تاريخ البدء.",
+    "StartMustToday": "يجب أن يكون تاريخ البدء اليوم أو لاحقًا."
+  }
+
+
+
+}

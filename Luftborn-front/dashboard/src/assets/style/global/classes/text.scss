@@ -1,0 +1,72 @@
+@import '../../colors/color.scss';
+
+.bg-tx-primary {
+  background-color: rgba(180, 25, 25, 0.1);
+  // background-color: rgba(25, 70, 180, 0.1);
+  color: $primary;
+}
+
+.bg-tx-secondary {
+  background-color: rgba(168, 170, 174, 0.1);
+  color: $cl-secondary;
+}
+
+.bg-tx-info {
+  background-color: rgba(0, 207, 232, 0.1);
+  color: $cl-info;
+}
+
+.bg-tx-success {
+  background-color: rgba(40, 199, 111, 0.1);
+  color: $cl-success;
+}
+
+.bg-tx-warning {
+  background-color: rgba(255, 159, 67, 0.1);
+  color: $cl-warning;
+}
+
+.bg-tx-danger {
+  background-color: rgb(234, 84, 85, 0.1);
+  color: $cl-danger;
+}
+// .bg-tx-disabled {
+//   background-color: $bg-disabled-secondary;
+//   color: #afb1b4;
+// }
+.cl-primary {
+  color: $cl-primary;
+}
+
+.cl-secondary {
+  color: $cl-secondary;
+}
+
+.cl-info {
+  color: $cl-info;
+}
+
+.cl-warning {
+  color: $cl-warning;
+}
+
+.cl-success {
+  color: $cl-success;
+}
+
+.cl-danger {
+  color: $cl-danger;
+}
+
+// .cl-disabled {
+//   color: $bg-disabled-secondary;
+// }
+
+.cl-third {
+  color: $primary;
+}
+
+label {
+  font-size: 1.25rem;
+  font-weight: 800;
+}

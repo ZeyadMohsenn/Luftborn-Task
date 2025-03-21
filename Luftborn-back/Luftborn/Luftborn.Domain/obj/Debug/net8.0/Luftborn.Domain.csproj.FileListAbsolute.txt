@@ -1,0 +1,25 @@
+e:\Luftborn\Luftborn.Domain\bin\Debug\net8.0\Luftborn.Domain.deps.json
+e:\Luftborn\Luftborn.Domain\bin\Debug\net8.0\Luftborn.Domain.dll
+e:\Luftborn\Luftborn.Domain\bin\Debug\net8.0\Luftborn.Domain.pdb
+e:\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.csproj.AssemblyReference.cache
+e:\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+e:\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.AssemblyInfoInputs.cache
+e:\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.AssemblyInfo.cs
+e:\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.csproj.CoreCompileInputs.cache
+e:\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.dll
+e:\Luftborn\Luftborn.Domain\obj\Debug\net8.0\refint\Luftborn.Domain.dll
+e:\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.pdb
+e:\Luftborn\Luftborn.Domain\obj\Debug\net8.0\ref\Luftborn.Domain.dll
+e:\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.sourcelink.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\bin\Debug\net8.0\Luftborn.Domain.deps.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\bin\Debug\net8.0\Luftborn.Domain.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\bin\Debug\net8.0\Luftborn.Domain.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.csproj.AssemblyReference.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.AssemblyInfoInputs.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.AssemblyInfo.cs
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.csproj.CoreCompileInputs.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\obj\Debug\net8.0\refint\Luftborn.Domain.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\obj\Debug\net8.0\Luftborn.Domain.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.Domain\obj\Debug\net8.0\ref\Luftborn.Domain.dll

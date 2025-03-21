@@ -1,0 +1,80 @@
+.file-upload-wrapper {
+  height: 150px;
+  border: 2px dashed #929292;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  position: relative;
+  cursor: pointer;
+  color: #686868;
+  overflow: hidden;
+  border-radius: 10px;
+}
+* {
+  transition: 0.3s all ease-in-out;
+}
+.file-input {
+  opacity: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  z-index: 10;
+}
+
+.file-upload-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  z-index: 1;
+}
+
+#file-upload-icon {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.uploaded-image {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  object-fit: cover;
+  border: 2px solid rgb(109, 109, 109);
+  left: 0;
+  z-index: 1;
+  transition: filter 0.3s ease;
+}
+.change-image-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(255, 255, 255);
+  color: #0d0330;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  opacity: 0;
+  visibility: hidden;
+  transition:
+    opacity 0.35s ease,
+    visibility 0.35s ease;
+  z-index: 2;
+}
+
+.has-image {
+  border: 0px;
+}
+.file-upload-wrapper.has-image:hover .uploaded-image {
+  filter: blur(3px);
+}
+
+.file-upload-wrapper.has-image:hover .change-image-btn {
+  opacity: 1;
+  visibility: visible;
+  transition-delay: 0.28s;
+}

@@ -1,0 +1,11 @@
+@import '../colors/color.scss';
+
+@mixin container {
+  background-color: white;
+  // background-color: $bg-color;
+  box-shadow: $box-third-shadow;
+  padding: 1.3rem 1.3rem;
+  // color: $font-color-label;
+  border-radius: 5px;
+  margin: 0.5rem 0;
+}

@@ -1,0 +1,335 @@
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.csproj.AssemblyReference.cache
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.GeneratedMSBuildEditorConfig.editorconfig
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.AssemblyInfoInputs.cache
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.AssemblyInfo.cs
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.csproj.CoreCompileInputs.cache
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.MvcApplicationPartsAssemblyInfo.cs
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.MvcApplicationPartsAssemblyInfo.cache
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\appsettings.Development.json
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\appsettings.json
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.APIs.exe
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.APIs.deps.json
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.APIs.runtimeconfig.json
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.APIs.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.APIs.pdb
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\AspNetCoreRateLimit.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\AutoMapper.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Azure.Core.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Azure.Identity.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\FluentValidation.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Humanizer.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\MediatR.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\MediatR.Contracts.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Mono.TextTemplating.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Newtonsoft.Json.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.ClientModel.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.CodeDom.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Composition.Convention.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Composition.Hosting.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Composition.Runtime.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Composition.TypedParts.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Drawing.Common.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Formats.Asn1.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Memory.Data.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Runtime.Caching.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Security.Permissions.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Windows.Extensions.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Twilio.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Application.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Domain.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Infrastructure.dll
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Application.pdb
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Infrastructure.pdb
+e:\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Domain.pdb
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets.build.json
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets.development.json
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets\msbuild.Luftborn.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets\msbuild.build.Luftborn.APIs.props
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Luftborn.APIs.props
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Luftborn.APIs.props
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets.pack.json
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\scopedcss\bundle\Luftborn.APIs.styles.css
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.1EF99F48.Up2Date
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.dll
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\refint\Luftborn.APIs.dll
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.pdb
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.genruntimeconfig.cache
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\ref\Luftborn.APIs.dll
+e:\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.sourcelink.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\appsettings.Development.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\appsettings.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.APIs.exe
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.APIs.deps.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.APIs.runtimeconfig.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.APIs.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.APIs.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\AspNetCoreRateLimit.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\AutoMapper.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Azure.Core.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Azure.Identity.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\FluentValidation.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Humanizer.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\MediatR.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\MediatR.Contracts.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.OpenApi.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Mono.TextTemplating.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Newtonsoft.Json.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.ClientModel.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.CodeDom.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Composition.Convention.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Composition.Hosting.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Composition.Runtime.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Composition.TypedParts.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Drawing.Common.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Formats.Asn1.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Memory.Data.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Runtime.Caching.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Security.Permissions.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\System.Windows.Extensions.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Twilio.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Application.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Domain.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Infrastructure.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Application.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Infrastructure.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\bin\Debug\net8.0\Luftborn.Domain.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.csproj.AssemblyReference.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.GeneratedMSBuildEditorConfig.editorconfig
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.AssemblyInfoInputs.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.AssemblyInfo.cs
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.csproj.CoreCompileInputs.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.MvcApplicationPartsAssemblyInfo.cs
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.MvcApplicationPartsAssemblyInfo.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets.build.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets.development.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets\msbuild.Luftborn.APIs.Microsoft.AspNetCore.StaticWebAssets.props
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets\msbuild.build.Luftborn.APIs.props
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Luftborn.APIs.props
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Luftborn.APIs.props
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\staticwebassets.pack.json
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\scopedcss\bundle\Luftborn.APIs.styles.css
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.1EF99F48.Up2Date
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\refint\Luftborn.APIs.dll
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.pdb
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\Luftborn.APIs.genruntimeconfig.cache
+g:\Luftborn Task\Luftborn-back\Luftborn\Luftborn.APIs\obj\Debug\net8.0\ref\Luftborn.APIs.dll

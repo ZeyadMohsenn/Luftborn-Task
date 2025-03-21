@@ -1,0 +1,33 @@
+<div class="layout-wrapper" [ngClass]="containerClass">
+  <app-topbar></app-topbar>
+  <div class="layout-sidebar" id="sidebar-menu">
+    <app-sidebar></app-sidebar>
+    <!-- <p>{{}}</p> -->
+  </div>
+  <div class="layout-main-container">
+    
+    <div class="breadCrump" [ngClass]="routes.length >= 1 ? 'appear' : ''">
+      <app-breadcrumb [items]="routes" [navBar]="navBar"></app-breadcrumb>
+      <ng-template #navBar let-item>
+        @if (item.label == "edit" || item.label == "create") {
+          <!-- TODO: add translation for the breadCrump -->
+          <!-- <a [routerLink]="item.router" class="text-primary list-links active-link">{{ 'pages.' + item.label | translate }}</a> -->
+          <a [routerLink]="item.router" class="text-primary list-links active-link">{{ item.label | titlecase}}</a>
+        }
+        @else {
+          <!-- <a [routerLink]="item.router" routerLinkActive="active-link" [routerLinkActiveOptions]="{ exact: true }"  class="text-primary list-links">{{ 'pages.' + item.label | translate }}</a> -->
+          <a [routerLink]="item.router" routerLinkActive="active-link" [routerLinkActiveOptions]="{ exact: true }"  class="text-primary list-links">{{ item.label | titlecase}}</a>
+        }
+      </ng-template>
+    </div>
+
+
+    <!-- <p-breadcrumb [model]="model"></p-breadcrumb> -->
+    <!-- <xng-breadcrumb></xng-breadcrumb> -->
+
+    <div class="layout-main">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>
+<app-loader></app-loader>

@@ -1,0 +1,185 @@
+<section>
+  <div class="p-grid p-justify-center">
+    <div class="p-col-10">
+      <div class="p-card">
+        <div class="p-card-header p-4 flex justify-content-between">
+
+
+          <h2 *ngIf="editMode" class="p-card-title text-primary font-bold" >
+           edit supplier
+          </h2>
+          <h2 *ngIf="!editMode" class="p-card-title text-primary font-bold" >
+            add supplier
+           </h2>
+
+        </div>
+        <div class="p-card-body">
+          <form [formGroup]="form">
+            <div class="formgrid grid">
+              <!-- <div class="field col-5">
+                <label for="idCard">
+                  {{ 'users.idCard' | translate }}
+                  <span class="cl-danger">*</span>
+                </label>
+                <input
+                  readonly
+                  id="idCard"
+                  type="text"
+                  pInputText
+                  [formControl]="getControl('id')"
+                  class="text-base text-color surface-overlay p-2 border-1 border-solid border-round appearance-none outline-none focus:border-primary w-full"
+                />
+              </div> -->
+
+              <div class="field col-5 mx-12">
+                <label for="name">
+                  Name
+                  <span class="cl-danger">*</span>
+                </label>
+                <input
+                  id="name"
+                  type="text"
+                  pInputText
+                  [formControl]="getControl('name')"
+                  class="text-base text-color surface-overlay p-2 border-1 border-solid border-round appearance-none outline-none focus:border-primary w-full"
+                />
+              </div>
+
+              <div class="field col-5">
+                <label for="description">
+                  Description
+                </label>
+                <input
+                  id="description"
+                  type="text"
+                  pInputText
+                  [formControl]="getControl('description')"
+                  class="text-base text-color surface-overlay p-2 border-1 border-solid border-round appearance-none outline-none focus:border-primary w-full"
+                />
+              </div>
+
+              <div class="field col-5 mx-12">
+                <label for="notes">
+                  Notes
+                </label>
+                <input
+                  id="notes"
+                  type="text"
+                  pInputText
+                  [formControl]="getControl('notes')"
+                  class="text-base text-color surface-overlay p-2 border-1 border-solid border-round appearance-none outline-none focus:border-primary w-full"
+                />
+              </div>
+
+              <div class="field col-5">
+                <label for="supplierType">
+                  Supplier Type
+                  <span class="cl-danger">*</span>
+                </label>
+                <input
+                  id="supplierType"
+                  type="number"
+                  pInputText
+                  [formControl]="getControl('supplierType')"
+                  class="text-base text-color surface-overlay p-2 border-1 border-solid border-round appearance-none outline-none focus:border-primary w-full"
+                />
+              </div>
+
+              <div class="field col-5 mx-12">
+                <label for="address">
+                  Address
+                  <span class="cl-danger">*</span>
+                </label>
+                <input
+                  id="address"
+                  type="text"
+                  pInputText
+                  [formControl]="getControl('address')"
+                  class="text-base text-color surface-overlay p-2 border-1 border-solid border-round appearance-none outline-none focus:border-primary w-full"
+                />
+              </div>
+            </div>
+
+            <div class="mt-4 w">
+              <div class="flex align-items-center  gap-2">
+                <h3>Contacts</h3>
+                <button type="button" (click)="addContact()" class="p-button p-button-text p-button-sm custom-add-btn">
+                  <i class="pi pi-plus"></i>
+                </button>
+              </div>
+
+              <div formArrayName="contacts">
+                <div *ngFor="let contact of contacts.controls; let i = index" [formGroupName]="i" class="grid flex justify-content-evenly gap-2 p-3  border-1 border-round border-gray-300">
+
+                  <div class="field col-4">
+                    <label>Contact Name<span class="cl-danger">*</span></label>
+                    <input type="text" pInputText formControlName="name" class="p-inputtext w3  " />
+                  </div>
+
+                  <div class="field col-4">
+                    <label>Phone Number<span class="cl-danger">*</span></label>
+                    <input type="text" pInputText formControlName="phoneNumber" class="p-inputtext w3 " />
+                  </div>
+
+                  <div class="field col-4">
+                    <label>Email<span class="cl-danger">*</span></label>
+                    <input type="email" pInputText formControlName="email" class="p-inputtext w3" />
+                  </div>
+
+                  <div class="col-12 flex justify-content-end">
+                    <button type="button" (click)="removeContact(i)" class="p-button p-button-text p-button-sm custom-remove-btn">
+                      <i class="pi pi-trash"></i>
+                    </button>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+
+
+            <div class="p-card-footer ms-auto flex justify-content-end p-4">
+              <button
+             *ngIf="editMode"
+                (click)="submit()"
+                [disabled]="!form.valid"
+                type="button"
+                label="Success"
+                class="p-element p-ripple p-button-raised p-button-info p-button p-component"
+              >
+                <span class="p-button-label">{{ 'shared.edit' | translate }}</span>
+                <span class="p-ink" aria-hidden="true" role="presentation"></span>
+              </button>
+
+              <button
+             *ngIf="!editMode"
+              (click)="submit()"
+              [disabled]="!form.valid"
+              type="button"
+              label="Success"
+              class="p-element p-ripple p-button-raised p-button-info p-button p-component"
+            >
+              <span class="p-button-label">{{ 'shared.add' | translate }}</span>
+              <span class="p-ink" aria-hidden="true" role="presentation"></span>
+            </button>
+
+
+              <button
+                [routerLink]="['/users']"
+                type="button"
+                label="Secondary"
+                class="p-element p-ripple p-button-raised p-button-secondary p-button p-component mx-2"
+              >
+                <span class="p-button-label">{{ 'shared.cancel' | translate }} </span>
+                <span class="p-ink" aria-hidden="true" role="presentation"></span>
+              </button>
+            </div>
+          </form>
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

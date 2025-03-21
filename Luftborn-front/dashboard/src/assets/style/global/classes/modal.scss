@@ -1,0 +1,23 @@
+@import '../../colors/color.scss';
+
+.modal-header {
+  // background: linear-gradient(180deg, $primary 0%, #b4dcad 96.4%);
+  // min-height: 6rem;
+  background-color: $primary;
+  color: white;
+  .modal-title {
+    font-weight: bold;
+  }
+  .close {
+    margin: 0;
+    color: black;
+    border: none;
+    // background-color: inherit;
+    &:focus-visible {
+      outline: none;
+    }
+  }
+}
+.footer {
+  margin: 2rem;
+}
